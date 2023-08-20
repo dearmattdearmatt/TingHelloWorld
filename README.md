@@ -1,3 +1,4 @@
+![headshot](1MushroomScan.jpg)
 # TingHelloWorld
 Trying to use Github
 # A picture drawn by Ting
